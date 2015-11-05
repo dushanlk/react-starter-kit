@@ -7,6 +7,7 @@ import withStyles from '../../decorators/withStyles';
 import Header from '../Header';
 import Feedback from '../Feedback';
 import Footer from '../Footer';
+import LoginForm from '../LoginForm'
 
 @withContext
 @withStyles(styles)
@@ -21,6 +22,7 @@ class App extends Component {
     return !this.props.error ? (
       <div>
         <Header />
+        <LoginForm/>
         {this.props.children}
         <Feedback />
         <Footer />

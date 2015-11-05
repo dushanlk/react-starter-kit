@@ -1,0 +1,21 @@
+.LoginForm {
+  float: right;
+  padding: 10px 10px 10px 5px;
+  background: #4a4872;
+  border: 2px dashed #e7000f;
+}
+
+.LoginForm-textbox {
+  padding: 2px;
+  color: #494949;
+}
+
+.LoginForm-label {
+  padding-left: 5px;
+  color: #FFFFFF;
+}
+
+.LoginForm-button {
+  margin-left: 5px;
+  padding: 2px 5px;
+}
