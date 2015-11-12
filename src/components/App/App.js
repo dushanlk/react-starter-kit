@@ -8,6 +8,7 @@ import Header from '../Header';
 import Feedback from '../Feedback';
 import Footer from '../Footer';
 import LoginForm from '../LoginForm'
+import Avatar from '../Avatar'
 
 @withContext
 @withStyles(styles)
@@ -23,6 +24,7 @@ class App extends Component {
       <div>
         <Header />
         <LoginForm/>
+        <Avatar/>
         {this.props.children}
         <Feedback />
         <Footer />
