@@ -1,3 +1,16 @@
+# React examples
+
+> This repo is a forked copy of
+ ``https://github.com/kriasoft/react-starter-kit`` and
+> this contains some simple react components which were written by me.
+
+## Sample components
+
+* Login form
+* Avatar
+
+> Original README continues from here.
+
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
