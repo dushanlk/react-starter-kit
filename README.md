@@ -6,8 +6,8 @@
 
 ## Sample components
 
-* Login form
-* Avatar
+* Login form - Getting started example
+* Avatar - Component composition example
 
 > Original README continues from here.
 
